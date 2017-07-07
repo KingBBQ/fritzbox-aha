@@ -19,7 +19,6 @@
         }
     },
     "require": {
-        "php": ">=7.0",
         "phpcurl/curlwrapper": "^2.1"
     },
     "require-dev": {
